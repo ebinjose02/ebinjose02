@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ebinjose02
 - 👀 I’m interested in learning new stacks and taking part in projects
-- 🌱 I’m currently learning htm css
+- 🌱 I’m currently learning html css
 - 💞️ I’m looking to collaborate on projects related to web development
 - 📫 How to reach me ... ebin371@gmail.com
 
